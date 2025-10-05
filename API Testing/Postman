@@ -1,4 +1,23 @@
-Practice Postman in NT Event Planner
+Practice Postman in Agro Scan
+
+Gitbash :
+git clone https://github.com/25S2-PRT681-Group-D/web.git
+cd web
+npm i
+npm run dev
+
+git clone https://github.com/25S2-PRT681-Group-D/backend.git
+cd backend
+dotnet build
+cd src/AgroScan.API
+dotnet run
+cd C:\path\to\backend\src\AgroScan.API
+dotnet build
+dotnet run
+
+
+Postman:
+
 
 ### **1. Import the Collection**
 
