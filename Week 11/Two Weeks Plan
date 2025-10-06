@@ -1,0 +1,56 @@
+Development Plan For Tester
+
+1. Research all key tools / technologies - gather a full list by asking industry ppl, network and seek.
+•	Test Management: JIRA, TestRail, Zephyr 
+•	Bug Tracking: JIRA, Bugzilla
+•	Automation Tools: Selenium, Postman, Cypress (basic exposure)
+•	API Testing: Postman, REST Assured (concepts only)
+•	Version Control: Git / GitHub
+•	CI/CD Basics: Jenkins, GitHub Actions (awareness only)
+•	Databases: SQL basics (MySQL, PostgreSQL)
+•	Basic Programming: Python or Java fundamentals
+•	Agile/Scrum Methodology: Confluence, Jira Boards
+•	Cloud Awareness: AWS or Azure (very basic awareness, not deep)
+2. Create a nice table of the above list and identify all possible resoureces links 
+Tool / Concept	LinkedIn Learning Course (Preferred)	Free Resources (YouTube / Docs)
+JIRA 	Learning Jira Software	Automation step by step
+Zephyr		Automation step by step
+Jmeter		Automation step by step
+Selenium	Selenium Essential Training	Automation step by step
+Postman	Postman Essential Training	Automation step by step
+OWsap Zap		SecNet Lab
+
+SQL Basics		W3Schools SQL
+GitHub		GitHub Docs
+Jenkins (CI/CD)		Automation step by step
+Agile 	Agile testing	
+Cloud Basics (AWS)		
+
+3. Create a two weeks plan to cover all section 2 identified courses/videos 
+Day	Tool / Topic	Learning Resource	Task	Notes to Capture (4 lines)
+1	Testing Foundations	LinkedIn	Methods	
+2	JIRA basics 	LinkedIn: Learning Jira Software +YouTube	Create a JIRA project, add a task	
+3	Zephyr 	 YouTube	Write 2 sample test cases	
+4	Zephyr	Youtube	Perform automation test	
+5	OWASP ZAP	Youtube	Perform Active scan, find alerts.	
+6	SoapUI	Youtube	Perform request	
+7	Jmeter	Youtube	Http request.	
+8	Postman 	LinkedIn: Postman Essential Training	Send a GET request to public API	
+9	Postman 	Postman YouTube 	Run a POST request	
+10	Selenium Basics	LinkedIn: Selenium Essential Training	Open browser → Google → Click search	
+11	SQL Basics	Youtube	Run SELECT * FROM users; query	
+12	Github	Youtube	Create repo and commit	
+
+Day	Tool / Topic	Learning Resource	Task (“Hello World”)
+13	Cypress Basic		Run sample Cypress test
+14	Jenkins / CI Basics	DevOps CI/CD Foundations	Run sample Jenkins build (or watch demo if setup hard)
+15	Agile / Scrum	Agile Foundations	Write sprint backlog (mock)
+16	Cloud Awareness (AWS)	Cloud Computing Foundations	Launch AWS Free Tier account 
+17	GitLab		
+18	Browser Developer Tools		
+19	VirtualBox, VMware		
+20	TestRail		
+21	Fiddler		
+22	LoadRunner		
+
+4.
