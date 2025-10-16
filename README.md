@@ -132,6 +132,7 @@ Testing verified both functional and non-functional requirements through manual 
 ![JMeter Http request](https://github.com/25S2-PRT681-Group-D/Tester_Musrat/blob/main/Performance%20testing/JmeterAgroScan.png)
 
 ---
+##  Security Testing — *OWASP ZAP*
 
 **Tool:** [OWASP ZAP](https://www.zaproxy.org/)  
 **Goal:** Detect and mitigate potential security vulnerabilities.
