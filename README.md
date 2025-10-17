@@ -40,7 +40,7 @@ The system diagnoses plant health, classifies diseases, and allows admins to man
 
 🔗 **Live URL:** [http://170.64.225.221:5173](http://170.64.225.221:5173) *(inactive)*  
 
-![Agro Scan Homepage](https://github.com/25S2-PRT681-Group-D/Tester_Musrat/blob/main/AgroScan_homepage.png)
+![Agro Scan Homepage](https://github.com/25S2-PRT681-Group-D/Tester_Musrat/blob/main/Home.png)
 
 
 
